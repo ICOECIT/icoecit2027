@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="ICoECIT emblem">
+  <defs>
+    <linearGradient id="icoGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1e40af"/>
+      <stop offset="0.5" stop-color="#0ea5b7"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="icoGrad2" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+
+  <!-- chip pins -->
+  <g stroke="url(#icoGrad)" stroke-width="4" stroke-linecap="round">
+    <line x1="40" y1="8"  x2="40" y2="20"/>
+    <line x1="64" y1="6"  x2="64" y2="18"/>
+    <line x1="88" y1="8"  x2="88" y2="20"/>
+    <line x1="40" y1="120" x2="40" y2="108"/>
+    <line x1="64" y1="122" x2="64" y2="110"/>
+    <line x1="88" y1="120" x2="88" y2="108"/>
+    <line x1="8"  y1="46" x2="20" y2="46"/>
+    <line x1="6"  y1="64" x2="18" y2="64"/>
+    <line x1="8"  y1="82" x2="20" y2="82"/>
+    <line x1="120" y1="46" x2="108" y2="46"/>
+    <line x1="122" y1="64" x2="110" y2="64"/>
+    <line x1="120" y1="82" x2="108" y2="82"/>
+  </g>
+
+  <!-- chip body -->
+  <rect x="20" y="20" width="88" height="88" rx="22" fill="none" stroke="url(#icoGrad)" stroke-width="5"/>
+
+  <!-- neural / emergence network: rising connected nodes -->
+  <g stroke="url(#icoGrad2)" stroke-width="4" stroke-linecap="round" fill="none">
+    <path d="M38 88 L54 66 L74 74 L92 44"/>
+    <path d="M38 88 L58 92 L74 74"/>
+  </g>
+  <g fill="url(#icoGrad)">
+    <circle cx="38" cy="88" r="7"/>
+    <circle cx="74" cy="74" r="8"/>
+    <circle cx="92" cy="44" r="9"/>
+  </g>
+  <g fill="url(#icoGrad2)">
+    <circle cx="54" cy="66" r="5"/>
+    <circle cx="58" cy="92" r="5"/>
+  </g>
+</svg>

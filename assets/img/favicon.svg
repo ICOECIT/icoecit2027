@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="ICoECIT">
+  <defs>
+    <linearGradient id="fvGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1e40af"/>
+      <stop offset="0.5" stop-color="#0ea5b7"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="fvGrad2" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="120" height="120" rx="28" fill="url(#fvGrad)"/>
+  <g stroke="#ffffff" stroke-width="4.5" stroke-linecap="round" fill="none" opacity="0.95">
+    <path d="M40 90 L56 68 L76 76 L94 46"/>
+    <path d="M40 90 L60 94 L76 76"/>
+  </g>
+  <g fill="#ffffff">
+    <circle cx="40" cy="90" r="7"/>
+    <circle cx="76" cy="76" r="8"/>
+    <circle cx="94" cy="46" r="9"/>
+  </g>
+  <g fill="url(#fvGrad2)">
+    <circle cx="56" cy="68" r="5"/>
+    <circle cx="60" cy="94" r="5"/>
+  </g>
+</svg>
