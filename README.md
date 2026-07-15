@@ -81,7 +81,10 @@ Once approval + a signed agreement arrive:
 - **Dates** — set to mirror the ICoECIT 2026 timeline: Submission **30 Oct 2026**,
   Acceptance **1 Dec 2026**, Camera-ready & registration **10 Dec 2026**,
   Conference **28–29 Jan 2027**. Shown as indicative pending approval.
-- **Fees** — still marked `TBA` (registration page).
+- **Fees** — set from the official fee sheet (`fEES.xlsx`): Indian categories ₹8,000–₹16,000,
+  non-Indian authors $200, extra pages ₹500/₹800 per page, certificates ₹500/₹800. Shown as
+  subject to confirmation pending approval. Registration only via the payment-gateway link in
+  the acceptance email; papers only via Microsoft CMT.
 - **Committee** — carried over from ICoECIT 2026; reconfirm names/roles for 2027.
 - **Submission portal** — **Microsoft CMT** (`cmt3.research.microsoft.com`). The
   conference-specific CMT submission link is to be activated on approval.
