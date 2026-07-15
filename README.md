@@ -73,17 +73,20 @@ Once approval + a signed agreement arrive:
 1. Update the red status banner text (or remove it) on **every** page.
 2. Add the IEEE / IEEE-section logo where permitted, with the correct
    “Technically Co-Sponsored by …” wording.
-3. Fill in confirmed **dates**, **fees** and the **submission-portal URL**
-   (search the files for `TBA`, `Date TBA`, `to be announced`).
+3. Confirm **dates** (currently mirroring 2026), add **fees** (search for `TBA`), and
+   activate the conference-specific **Microsoft CMT** submission link on the CFP page.
 
 ## 5. Content that is provisional / needs confirming
 
-- **Dates & fees** — currently marked `TBA` (home, registration, venue).
+- **Dates** — set to mirror the ICoECIT 2026 timeline: Submission **30 Oct 2026**,
+  Acceptance **1 Dec 2026**, Camera-ready & registration **10 Dec 2026**,
+  Conference **28–29 Jan 2027**. Shown as indicative pending approval.
+- **Fees** — still marked `TBA` (registration page).
 - **Committee** — carried over from ICoECIT 2026; reconfirm names/roles for 2027.
-- **Submission portal** — CMT/EDAS link to be added on the CFP page.
-- **Secretariat email** — `icoecitconferencesecetary@gmail.com` (kept exactly as on the
-  existing site; note the spelling “secetary”. Fix here and in all `mailto:` links if it
-  should be `secretary`).
+- **Submission portal** — **Microsoft CMT** (`cmt3.research.microsoft.com`). The
+  conference-specific CMT submission link is to be activated on approval.
+- **Secretariat email** — `icoecitconferencesecetary@gmail.com`, kept exactly as on the
+  existing site **per organiser instruction** (do not change the spelling).
 
 ## 6. Preview locally
 
