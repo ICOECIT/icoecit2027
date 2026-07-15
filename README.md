@@ -1,6 +1,6 @@
 # ICoECIT 2027 — Conference Website
 
-Static website for the **2nd International Conference on Emerging Computing & Intelligent Technologies (ICoECIT 2027)**, hosted by **G. Narayanamma Institute of Technology & Science (GNITS), Hyderabad**.
+Static website for the **2nd International Conference on Emerging Computing & Intelligent Technologies (ICoECIT 2027)**, organized by **G. Narayanamma Institute of Technology & Science (GNITS), Hyderabad**. Tentative venue: **Taj City Centre, Patna, Bihar**.
 
 Built to replace/refresh the previous Google Sites site for the new edition. Pure HTML + CSS — no build step, no frameworks — so it drops straight onto GitHub Pages.
 
@@ -16,7 +16,7 @@ ICOECIT 2027/
 ├── call-for-papers.html  # Tracks, topics, submission guidelines
 ├── committee.html        # Organizing committee (provisional, from 2026)
 ├── registration.html     # Indicative fees + registration terms
-├── venue.html            # GNITS, Hyderabad + how to reach
+├── venue.html            # Taj City Centre, Patna (tentative) + how to reach
 ├── history.html          # Past editions — 2026 links to IEEE Xplore
 ├── contact.html          # Secretariat contact
 ├── privacy.html          # Privacy Policy
