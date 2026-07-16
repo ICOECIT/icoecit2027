@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://icoecit.github.io/icoecit2027/sitemap.xml

@@ -103,6 +103,18 @@ python -m http.server 8080
 
 or just double-click `index.html`.
 
+## 6b. SEO
+
+Every page includes: an optimized `<title>` and meta description, conference/IEEE-relevant
+`keywords`, a `canonical` URL, Open Graph + Twitter Card tags (share image at
+`assets/img/og-image.png`, 1200×630), and JSON-LD structured data — an `Event` (+ `Organization`,
+`WebSite`) on the home page and `BreadcrumbList` on inner pages. `sitemap.xml` and `robots.txt`
+(with a `Sitemap:` line) are at the root; `404.html` is `noindex`. Keywords stay truthful and do
+**not** claim IEEE sponsorship (the "under review" status is preserved everywhere).
+
+After launch: submit `sitemap.xml` in **Google Search Console** and **Bing Webmaster Tools**, and
+regenerate the OG image with `assets/img/` if branding changes.
+
 ## 7. Deploy to GitHub Pages (org: icoecitconferencesecretary)
 
 Intended to live under the GitHub account/organisation **`icoecitconferencesecretary`**.
