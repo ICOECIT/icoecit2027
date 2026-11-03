@@ -73,14 +73,14 @@ Once approval + a signed agreement arrive:
 1. Update the red status banner text (or remove it) on **every** page.
 2. Add the IEEE / IEEE-section logo where permitted, with the correct
    “Technically Co-Sponsored by …” wording.
-3. Confirm **dates** (currently mirroring 2026), add **fees** (search for `TBA`), and
+3. Confirm **dates** (conference 3–4 May 2027; deadlines provisional), add **fees** (search for `TBA`), and
    activate the conference-specific **Microsoft CMT** submission link on the CFP page.
 
 ## 5. Content that is provisional / needs confirming
 
-- **Dates** — set to mirror the ICoECIT 2026 timeline: Submission **30 Oct 2026**,
-  Acceptance **1 Dec 2026**, Camera-ready & registration **10 Dec 2026**,
-  Conference **28–29 Jan 2027**. Shown as indicative pending approval.
+- **Dates** — set for a May 2027 conference: Submission **15 Feb 2027**,
+  Acceptance **30 Mar 2027**, Camera-ready & registration **7 Apr 2027**,
+  Conference **3–4 May 2027**. Shown as indicative pending approval.
 - **Fees** — set from the official fee sheet (`fEES.xlsx`): Indian categories ₹8,000–₹16,000,
   non-Indian authors $200, extra pages ₹500/₹800 per page, certificates ₹500/₹800. Shown as
   subject to confirmation pending approval. Registration only via the payment-gateway link in
