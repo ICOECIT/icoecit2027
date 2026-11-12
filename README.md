@@ -1,6 +1,6 @@
 # ICoECIT 2027 — Conference Website
 
-Static website for the **2nd International Conference on Emerging Computing & Intelligent Technologies (ICoECIT 2027)**, organized by **G. Narayanamma Institute of Technology & Science (GNITS), Hyderabad**. Tentative venue: **Taj City Centre, Patna, Bihar**.
+Static website for the **2nd International Conference on Emerging Computing & Intelligent Technologies (ICoECIT 2027)**, organized and hosted by **Netaji Subhas Institute of Technology, Patna**, which is also the venue (Amhara, Bihta, Patna, Bihar).
 
 Built to replace/refresh the previous Google Sites site for the new edition. Pure HTML + CSS — no build step, no frameworks — so it drops straight onto GitHub Pages.
 
@@ -16,7 +16,7 @@ ICOECIT 2027/
 ├── call-for-papers.html  # Tracks, topics, submission guidelines
 ├── committee.html        # Organizing committee (provisional, from 2026)
 ├── registration.html     # Indicative fees + registration terms
-├── venue.html            # Taj City Centre, Patna (tentative) + how to reach
+├── venue.html            # NSIT Patna (host & venue) + how to reach
 ├── history.html          # Past editions — 2026 links to IEEE Xplore
 ├── contact.html          # Secretariat contact
 ├── privacy.html          # Privacy Policy
@@ -65,7 +65,7 @@ and the agreement/MOU is signed:
 
 - **No IEEE logo** anywhere on the site, publications or promotions.
 - **Do not imply an IEEE relationship** or guarantee IEEE Xplore indexing.
-- **Name the financial sponsor** (GNITS) clearly — done on every page.
+- **Name the organizer** (Netaji Subhas Institute of Technology, Patna) clearly — done on every page.
 - Keep the **“under review — not yet approved”** banner visible everywhere.
 
 Once approval + a signed agreement arrive:
@@ -137,5 +137,5 @@ Then in the repo: **Settings → Pages → Build and deployment → Source: “D
 
 ---
 
-© ICoECIT 2027 · G. Narayanamma Institute of Technology & Science. Website content is
+© ICoECIT 2027 · Netaji Subhas Institute of Technology, Patna. Website content is
 provisional pending publisher approval.
